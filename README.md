@@ -1,7 +1,7 @@
 # Flutter Feed App Ui
 It a simple flutter ui feed social applicaion
 
-# Image
+# Images
 
 
 <img width="300"  src="https://github.com/Justin-roy/flutterfeed/blob/main/screenshots/1.jpg">    .
